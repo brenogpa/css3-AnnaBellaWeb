@@ -18,7 +18,6 @@ Hey there! This project was built to develop HTML and CSS skills!
 ## This is me
 **Breno Abreu**
 * [**Git Hub**](https://github.com/brenogpa)
-* [**Instagram**](https://www.instagram.com/brenogpa/)
 * **brenogpa@gmail.com**
 
 
